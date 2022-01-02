@@ -1,8 +1,8 @@
 # Module_4
 
-# Crypto Arbitrage
+# Risk Return Analysis
 
-This is to practice sorting through and recognizing crypto arbitrage opportunities between Bitstamp and Coinbase for Bitcoin cryptocurrency.
+This is a collection of practice excercises to perform a risk/return analysis using a collection of data assesment and anaylsis tools in Python, and Jupyter Labs, coding.
 
 ---
 
